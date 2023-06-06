@@ -13,10 +13,8 @@ export const Profile = () => {
           <h2>Thanakit Kitkhajohnpaiboon</h2>
           <p>I'm a software developer with problem solving skills and always ready to learn things</p>
           <Card/>
-          
         </div>
       </section>
-        
       <Footer/>
     </div>
     

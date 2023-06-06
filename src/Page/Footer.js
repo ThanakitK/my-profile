@@ -13,7 +13,6 @@ export const Footer = () => {
     <ul class="menu">
       <li class="menu__item"><a class="menu__link" href="/">Home</a></li>
       <li class="menu__item"><a class="menu__link" href="/">Contact</a></li>
-
     </ul>
   </footer>
     </div>

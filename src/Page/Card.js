@@ -1,4 +1,5 @@
 import React from 'react'
+import kasetsart from '../Img/kasetsart.png'
 
 export const Card = () => {
   return (
@@ -31,8 +32,23 @@ export const Card = () => {
                 <div class="tracker tr-24"></div>
                 <div class="tracker tr-25"></div>
                 <div id="card">
-                <p id="prompt">Kasetsart University</p>
-                <div class="title">look mom,<br/>no JS</div>
+                <p id="prompt">
+                    <img className='kaset' src={kasetsart} alt=''></img>
+                    Kasetsart University
+                </p>
+
+                <div class="title">
+                    <div>
+                        Enrolled since<br/> 
+                        July 2019
+                    </div>
+                    <div>
+                        —BS Computer Science
+                    </div>
+                    <div>
+                        —GPA 2.78
+                    </div>
+                </div>
                     <div class="subtitle">
                         University
                     </div>

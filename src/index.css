@@ -221,6 +221,13 @@ h2{
 
 
 /* card */
+
+.kaset{
+  margin-left: 7px;
+  width: 150px;
+  height: 150px;
+}
+
 .card {
   position: relative;
   width: 190px;
@@ -271,7 +278,7 @@ h2{
   -webkit-transition-delay: 100ms;
           transition-delay: 100ms;
   position: absolute;
-  font-size: x-large;
+  font-size: 15px;
   font-weight: bold;
 }
 
