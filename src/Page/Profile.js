@@ -15,6 +15,7 @@ export const Profile = () => {
           <Card/>
         </div>
       </section>
+      <br/>
       <Footer/>
     </div>
     

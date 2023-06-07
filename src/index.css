@@ -71,6 +71,7 @@ nav a{
 
 
 /* picture */
+
 .logo{
   width: 250px;
   height: 250px;
@@ -652,7 +653,8 @@ h2{
 /* footer */
 
 .footer {
-  position: relative;
+  position: sticky;
+  top: 100%;
   width: 100%;
   background: #3586ff;
   min-height: 100px;
@@ -663,7 +665,6 @@ h2{
   flex-direction: column;
 }
 
-.social-icon,
 .menu {
   position: relative;
   display: flex;
@@ -673,21 +674,12 @@ h2{
   flex-wrap: wrap;
 }
 
-.social-icon__item,
+
 .menu__item {
   list-style: none;
 }
 
-.social-icon__link {
-  font-size: 2rem;
-  color: #fff;
-  margin: 0 10px;
-  display: inline-block;
-  transition: 0.5s;
-}
-.social-icon__link:hover {
-  transform: translateY(-10px);
-}
+
 
 .menu__link {
   font-size: 1.2rem;
@@ -766,3 +758,4 @@ h2{
     background-positon-x: 0px;
   }
 }
+
