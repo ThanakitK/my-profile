@@ -13,14 +13,14 @@ export const Profile = () => {
           <div className='left'>
             <h1>Hi, I'm Bank</h1>
             <h2>Thanakit Kitkhajohnpaiboon</h2>
-            <p>I'm a software developer with problem solving skills and always ready to learn things</p>
+            <p>I'm a developer with problem solving skills and always ready to learn things</p>
             <Card/>
           </div>
           <div className='right'>
             <div className='timeline'>
               <h2>Intern</h2>
               <div className='event'>
-                <h3>Gt Technology</h3>
+                <h3>GT Technology</h3>
                 <p>Report problem web
                   In main web have problem. The customer will report
                   that problem in this web, this web will report to our
