@@ -199,6 +199,9 @@ p{
   color: white;
 }
 /* Custom CSS to style the timeline */
+.date{
+  color:#89E5FF;
+}
 .timeline {
   margin-top: 20px;
   margin-left: 200px;

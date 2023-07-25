@@ -26,14 +26,15 @@ export const Profile = () => {
                   that problem in this web, this web will report to our
                   expert to fix that problem and show status to customer
                   every process.
-                  <p>June2022 - August 2022</p>
+                  <p className='date'><b>June2022 - August 2022</b></p>
                   <p>-React</p>
                 </p>
               </div>
               <h2>Works</h2>
               <div className='event'>
-                {/* <h3>Event 2</h3>
-                <p>Description of Event 2</p> */}
+                <h3>Your Company</h3>
+                <p>If you accept me your company should be here!</p>
+                <p className='date'><b>present</b></p>
               </div>
             </div>
 
