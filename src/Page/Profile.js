@@ -20,7 +20,7 @@ export const Profile = () => {
             <div className='timeline'>
               <h2>Intern</h2>
               <div className='event'>
-                <h3>GT Technology</h3>
+                <h3>GT Technologies Co.,Ltd.</h3>
                 <p>Report problem web
                   In main web have problem. The customer will report
                   that problem in this web, this web will report to our
