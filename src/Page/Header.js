@@ -17,6 +17,7 @@ export const Header = () => {
                 <a href='https://github.com/thanakitK' target='github'>Work</a>
               </div>
             </li>
+            <a href='mailto: thanakit.kitkh@gmail.com'>Gmail</a>
           </ul>
         </nav>
       </div>

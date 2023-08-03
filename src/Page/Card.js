@@ -1,9 +1,11 @@
 import React from 'react'
 import kasetsart from '../Img/kasetsart.png'
+import { Link } from 'react-router-dom';
 
 export const Card = () => {
   return (
     <div>
+        <Link to='https://www.ku.ac.th/th'>
         <div class="card noselect">
             <div class="canvas">
                 <div class="tracker tr-1"></div>
@@ -55,6 +57,8 @@ export const Card = () => {
                 </div>
             </div>
         </div>
+        </Link>
+        
     </div>
   )
 }
