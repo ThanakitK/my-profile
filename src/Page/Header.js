@@ -1,5 +1,5 @@
 import React from 'react'
-import icon from '../Img/icon.jpg'
+import icon from '../Img/myPic1.jpg'
 
 export const Header = () => {
   return (
