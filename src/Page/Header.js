@@ -9,7 +9,7 @@ export const Header = () => {
           <img className='icon' src={icon} alt=''/>
           <ul>
             <a href='/'>Home</a>
-            <li><a href='https://www.linkedin.com/in/thankit-kitkhajohnpaiboon-9bb682278/' target='LinkedIn'>Linkedln</a></li>
+            <li><a href='https://www.linkedin.com/in/thanakit-kitkhajohnpaiboon-9bb682278/' target='LinkedIn'>Linkedln</a></li>
             <li className="dropdown">
               <a className='dropbtn' href='/profile'>Github</a>
               <div className="dropdown-content">
