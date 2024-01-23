@@ -32,9 +32,9 @@ export const Profile = () => {
               </div>
               <h2>Works</h2>
               <div className='event'>
-                <h3>Your Company</h3>
-                <p>If you accept me your company should be here!</p>
-                <p className='date'><b>present</b></p>
+                <h3>Internet Thailand Public Company Limited</h3>
+                <p>At first I come to develop AI by use python and I change to platform develop that make me become full-stack in frontend use VueJS and backend use Golang</p>
+                <p className='date'><b>september 2023 - present</b></p>
               </div>
             </div>
 
